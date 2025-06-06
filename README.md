@@ -33,8 +33,15 @@ SELECT A,B,C
 WHERE A> 15
 ```
 
+### analysis
+
+1. ![IMG_1001](https://github.com/user-attachments/assets/b6b06e38-4e83-48d1-bc24-03c4fdd025dd)
+
+ 
 
 
+
+![IMG_1967](https://github.com/user-attachments/assets/afc2d502-648e-4544-bcff-84633f3632b0)
 
 
 
