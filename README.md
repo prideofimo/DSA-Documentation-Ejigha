@@ -20,4 +20,9 @@ bla bla bla
       2. Data Munching
          
 - SQL Server...
-- Power BI...
+- Power BI[Download](https://www.microsoft.com/en-us/download/details.aspx?id=58494)...
+
+### DATA CLEANING
+1. MONEY
+2. POWER
+3. FAME
