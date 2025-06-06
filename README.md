@@ -26,3 +26,17 @@ bla bla bla
 1. MONEY
 2. POWER
 3. FAME
+
+
+``` SQL
+SELECT A,B,C
+WHERE A> 15
+```
+
+
+
+
+
+
+
+
