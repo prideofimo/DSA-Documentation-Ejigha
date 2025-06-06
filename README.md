@@ -25,7 +25,7 @@ bla bla bla
 ### DATA CLEANING
 1. MONEY
 2. POWER
-3. FAME
+3. FAME.
 
 
 ``` SQL
